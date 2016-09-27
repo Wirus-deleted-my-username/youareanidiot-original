@@ -1,4 +1,4 @@
-# youareanidiot-original
+# YouAreAnIdiot with original javascript
 Original YouAreAnIdiot javascript
 
 
