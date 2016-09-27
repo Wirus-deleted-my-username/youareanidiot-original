@@ -8,4 +8,6 @@ It might not work with newest Internet Explorer versions. Tested on IE 6 (Window
 
 
 
-Click http://i.imgur.com/rWK11Nf.png to download
+Click that button to download: 
+
+![Instructions](http://i.imgur.com/rWK11Nf.png)
